@@ -1,1 +1,18 @@
-
+<head>
+    <first_bug>
+        <priority>medium</priority>
+        <severity>critical</severity>
+        <type>functional</type>
+        <steps>open any page</steps>
+        <actual>no scroll bar on the right side of the site</actual>
+        <expected>scroll bar on the right side of the site</expected>
+    </first_bug>
+    <second_bug>
+        <priority>low</priority>
+        <severity>critical</severity>
+        <type>content</type>
+        <steps>Open home page, sroll down to the end.</steps>
+        <actual>incorrect text</actual>
+        <expected>correct text</expected>
+    </second_bug>
+</head>
